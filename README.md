@@ -5,14 +5,14 @@ Given the lack of standards and wide variability of provision of this data it is
 This project aims to provide a platform to share knowledge across the retail and consumer goods industry and ultimately provide a comprehensive index of all retailer generated demand signals.
 
 # Index
-You can view and download the index [here](https://github.com/AtheonAnalytics/retail-data-intel/tree/main/resources).
+You can view and download the index [here](https://github.com/AtheonAnalytics/retail-data-index/tree/main/resources).
 
 # Contributing to the Index
 You can contribute to this knowledge index either by discussing an issue or by updating the index with a pull request.
 ## Create an issue
-If you have new intelligence on a retail data source, create or update an [issue](https://github.com/AtheonAnalytics/retail-data-intel/issues) using the https://github.com/AtheonAnalytics/retail-data-intel/labels/new%20data%20source and https://github.com/AtheonAnalytics/retail-data-intel/labels/update%20data%20source labels.
+If you have new intelligence on a retail data source, create or update an [issue](https://github.com/AtheonAnalytics/retail-data-index/issues) using the https://github.com/AtheonAnalytics/retail-data-index/labels/new%20data%20source and https://github.com/AtheonAnalytics/retail-data-index/labels/update%20data%20source labels.
 ## Create a pull request
-To update the index directly, update the index.csv file and create a [pull request](https://github.com/AtheonAnalytics/retail-data-intel/pulls).
+To update the index directly, update the index.csv file and create a [pull request](https://github.com/AtheonAnalytics/retail-data-index/pulls).
 
 # Feature Request
-To suggest new features for the repository, create an issue with the https://github.com/AtheonAnalytics/retail-data-intel/labels/enhancement label.
+To suggest new features for the repository, create an issue with the https://github.com/AtheonAnalytics/retail-data-index/labels/enhancement label.
